@@ -20,7 +20,7 @@ A simple Python GUI application that calculates Body Mass Index (BMI) based on t
 ## 🚀 How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/Seja-git/BMI-Calculator.git
+   git clone https://github.com/Seja-git/OIBSIP_pythonProgramming_2.git
 
 ## 📷 Screenshot
 
